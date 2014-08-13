@@ -1,3 +1,12 @@
+# temporary, swap, and system files
+.DS_Store
+*.swp
+*.swo
+*.zip
+*.tar
+*.tgz
+
+
 # Logs
 logs
 *.log
