@@ -22,10 +22,12 @@ Below are two simple templates for formatting your user stories.  By design, use
 
 
 As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
-Example: 
+
+Example:
 > As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
 
-**Given**, **When**, **Then**
+**Given**, **When**, **Then**.
+
 Example:
 > **Given** a full and accurate reporting of the costs associated with purchasing a particular property,
 > **When** a particular loan profile has been offered,
