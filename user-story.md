@@ -1,5 +1,5 @@
 # Creating Agile User Stories
-The INVEST acronym is frequently used to describe the key qualities of a successful user story.  By focusing on these attributes and using the template at the bottom of this page, you Backlog will be easier to groom.
+The **INVEST** acronym is frequently used to describe the key qualities of a successful user story.  By focusing on these attributes and using the template at the bottom of this page, you Backlog will be easier to groom.
 
 ### INVEST in Your User Stories
 **I**ndependent
@@ -20,6 +20,7 @@ Small user stories tend to be better than larger ones.  They tend to be easier t
 **T**estable
 The requirements and user stories should be clear enough that the testers and the product owners can easily determine when a feature fits the team-derived definition of "done".  
 
+### A Sample User Story Format
 Below are two simple templates for formatting your user stories.  By design, users stories are intended to be high level descriptions of a requirement or feature.  Implementation details are purposely left out and are deferred to actual development time.  A successful user story will communicate a need to be filled for a particular segment of users while providing a brief comment on its value.
 
 
