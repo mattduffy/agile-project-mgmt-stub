@@ -1,5 +1,7 @@
-# INVEST in Your User Stories
+# Creating Agile User Stories
+The INVEST acronym is frequently used to describe the key qualities of a successful user story.  By focusing on these attributes and using the template at the bottom of this page, you Backlog will be easier to groom.
 
+### INVEST in Your User Stories
 **I**ndependent
 Each user story accepted into the Product Backlog should be independent from the other stories.  This can be difficult in practice, but it essential if we are to be able to reprioritize the Backlog for each Iteration.  We want to avoid having to drag any user stories into a release plan because they are dependent upon others.
 
@@ -33,3 +35,34 @@ Example:
 > **When** a particular loan profile has been offered,
 > **Then** the user can determine the competitive value of the contract.
 
+
+Stakeholder: __________________ 
+
+Project Section: ______________ 
+
+Level of Effort: ______________ 
+
+Story Name: ___________________ 
+
+Last Modified: ________________ 
+
+Modified By: __________________ 
+
+Risks Adjustment: _____________
+
+Risks Identified: 
+  * @risk1: description of identified risk.
+  * @risk2: description of identified risk.
+
+
+Story:
+> **Given** a full and accurate reporting of the costs associated with purchasing a particular property,
+
+> **When** a particular loan profile has been offered,
+
+> **Then** the user can determine the competitive value of the contract.
+
+Conditions of Satisfaction (optional):
+  * extra detail about condition 1
+  * extra detail about condition 2
+  * extra detail about condition n
