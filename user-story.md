@@ -12,7 +12,7 @@ The team should be able to discuss the meaning of a user story to accurately int
 Every user story should provide measurable value to the customer.  It may be difficult to calculate that value, but it should be easy to understand.  The team should only be working on items that provide measurable value to the product.  
 
 <b><u>E</u></b>stimatable
-The team should be able to provide a workable estimate of time and cost for each user story.  If an estimate cannot be provided for a story, that is a sign that the requirement is not well understood and needs to be rethought.  If necessary, create a user story called "Estimate story X" to specifically provide the team with a ~Spike~ to investigate the requirement further.
+The team should be able to provide a workable estimate of time and cost for each user story.  If an estimate cannot be provided for a story, that is a sign that the requirement is not well understood and needs to be rethought.  If necessary, create a user story called "Estimate story X" to specifically provide the team with a _Spike_ to investigate the requirement further.
 
 <b><u>S</u></b>mall
 Small user stories tend to be better than larger ones.  They tend to be easier to estimate, and easier to understand when their scope and size are constrained.  It is generally advisable to keep the size of the user stories to within a single iteration.
