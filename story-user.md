@@ -37,19 +37,23 @@ Example:
 > **Then** the user can determine the competitive value of the contract.
 
 
+Story Name: ___________________ 
+
+Current Dev Stage: ____________ 
+
+Current Owner: ________________ 
+
 Stakeholder: __________________ 
 
 Project Section: ______________ 
 
 Level of Effort: ______________ 
 
-Story Name: ___________________ 
-
 Last Modified: ________________ 
 
 Modified By: __________________ 
 
-Risks Adjustment: _____________
+Risks Adjustment: _____________ 
 
 Risks Identified: 
   * @risk1: description of identified risk.
