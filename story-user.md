@@ -23,6 +23,8 @@ The requirements and user stories should be clear enough that the testers and th
 ### A Sample User Story Format
 Below is a simple template for formatting your user stories.  By design, users stories are intended to be high level descriptions of a requirement or feature.  Implementation details are purposely left out and are deferred to actual development time.  A successful user story will communicate a need to be filled for a particular segment of users while providing a brief comment on its value and most importantly, the acceptance criteria against which the feature's "done-ness" will be judged.
 
+See [decorcated users](decorated-users.md) for a brief explanation of how to enrich the quality of your user stories and provide a more detailed Feature Backlog.
+
 
 As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
 
