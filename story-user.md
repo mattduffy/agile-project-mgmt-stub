@@ -26,42 +26,27 @@ Below is a simple template for formatting your user stories.  By design, users s
 
 As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
 
-Example:
-> As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
+### Template:
 
 
-Story Name: ___________________ 
+##### Story Name: ___________________ 
+##### Current Dev Stage: ____________ 
+##### Current Owner: ________________ 
+##### Stakeholder: __________________ 
+##### Project Section: ______________ 
+##### Level of Effort: ______________ 
+##### Last Modified: ________________ 
+##### Modified By: __________________ 
+##### Risks Adjustment: _____________ 
 
-Current Dev Stage: ____________ 
-
-Current Owner: ________________ 
-
-Stakeholder: __________________ 
-
-Project Section: ______________ 
-
-Level of Effort: ______________ 
-
-Last Modified: ________________ 
-
-Modified By: __________________ 
-
-Risks Adjustment: _____________ 
-
-Risks Identified: 
+##### Risks Identified: 
   * @risk1: description of identified risk.
   * @risk2: description of identified risk.
 
+##### Story:
+As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
 
-Story:
-> **Given** a full and accurate reporting of the costs associated with purchasing a particular property,
-
-> **When** a particular loan profile has been offered,
-
-> **Then** the user can determine the competitive value of the contract.
-
-
-Acceptance Tests:
+##### Acceptance Tests:
 Criteria 1
 > **Given** an active user account is created, the user logs in, and has no loan profiles created,
 > **When** a logged-in user clicks on New Profile, 
