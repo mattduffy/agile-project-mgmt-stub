@@ -21,20 +21,13 @@ Small user stories tend to be better than larger ones.  They tend to be easier t
 The requirements and user stories should be clear enough that the testers and the product owners can easily determine when a feature fits the team-derived definition of "done".  
 
 ### A Sample User Story Format
-Below are two simple templates for formatting your user stories.  By design, users stories are intended to be high level descriptions of a requirement or feature.  Implementation details are purposely left out and are deferred to actual development time.  A successful user story will communicate a need to be filled for a particular segment of users while providing a brief comment on its value.
+Below is a simple template for formatting your user stories.  By design, users stories are intended to be high level descriptions of a requirement or feature.  Implementation details are purposely left out and are deferred to actual development time.  A successful user story will communicate a need to be filled for a particular segment of users while providing a brief comment on its value and most importantly, the acceptance criteria against which the feature's "done-ness" will be judged.
 
 
 As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
 
 Example:
 > As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
-
-**Given**, **When**, **Then**.
-
-Example:
-> **Given** a full and accurate reporting of the costs associated with purchasing a particular property,
-> **When** a particular loan profile has been offered,
-> **Then** the user can determine the competitive value of the contract.
 
 
 Story Name: ___________________ 
@@ -67,7 +60,14 @@ Story:
 
 > **Then** the user can determine the competitive value of the contract.
 
-Conditions of Satisfaction (optional):
-  * extra detail about condition 1
-  * extra detail about condition 2
-  * extra detail about condition n
+
+Acceptance Tests:
+Criteria 1
+> **Given** an active user account is created, the user logs in, and has no loan profiles created,
+> **When** a logged-in user clicks on New Profile, 
+> **Then** a form is displayed to enter new loan data which can be saved, viewed, edited or deleted.
+
+Criteria 2:
+> **Given** a full and accurate reporting of the costs associated with purchasing a particular property,
+> **When** a particular loan profile has been offered,
+> **Then** the user can determine the competitive value of the contract.

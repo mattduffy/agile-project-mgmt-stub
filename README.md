@@ -7,7 +7,10 @@ Use this process outline to help you kick-off a new Agile based project in a sta
     * communicate, clearly and early, what methodologies are to be used:
 	  - Kanban
 	  - Scrum
-	  - XP, etc.
+	  - XP
+	  - Feature Driven Development
+	  - Crystal
+	  - Lean Software Development
 	* Define and communicate the Project Management process requirements.
 * Define the Minimally Marketable Feature/Product (MMF/P):
   * Clearly establish the measure of functionality that is complete enough to be useful to the users, yet small enough to fit into the planned Iteration/Sprint concept.
