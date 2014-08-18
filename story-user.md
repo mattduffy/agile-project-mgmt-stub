@@ -23,30 +23,34 @@ The requirements and user stories should be clear enough that the testers and th
 ### A Sample User Story Format
 Below is a simple template for formatting your user stories.  By design, users stories are intended to be high level descriptions of a requirement or feature.  Implementation details are purposely left out and are deferred to actual development time.  A successful user story will communicate a need to be filled for a particular segment of users while providing a brief comment on its value and most importantly, the acceptance criteria against which the feature's "done-ness" will be judged.
 
+> As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
+
+See [personas.md](user personas) for a brief explanation on how creating user personas can help create successful user stories from the perspective of archetypal users.
+
 See [decorcated users](decorated-users.md) for a brief explanation of how to enrich the quality of your user stories and provide a more detailed Feature Backlog.
 
-
-As a *&lt;Role&gt;*, I want *&lt;Functionality&gt;*, so that *&lt;Business Benefits&gt;*.
+See [story-theme.md](backlog themes) for a brief explanation of why to apply themes to the stories in your backlog.
 
 ### Template:
 
-
+##### Story ID: &lt;auto-generated&gt;
 ##### Story Name: ___________________ 
-##### Current Dev Stage: ____________ 
 ##### Current Owner: ________________ 
+##### Current Dev Stage: ____________ 
 ##### Stakeholder: __________________ 
 ##### Project Section: ______________ 
 ##### Level of Effort: ______________ 
+##### Priority Set: _________________ 
 ##### Last Modified: ________________ 
 ##### Modified By: __________________ 
 ##### Risks Adjustment: _____________ 
 
+##### Story:
+As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
+
 ##### Risks Identified: 
   * @risk1: description of identified risk.
   * @risk2: description of identified risk.
-
-##### Story:
-As a prospective homebuyer, I want to see a complete and realistic estimate of the costs of owernship of a particular property purchased with a particular mortgage before signing a contract, so that I can directly compare its competitive value against other loans and / or other properties.
 
 ##### Acceptance Tests:
 Criteria 1
