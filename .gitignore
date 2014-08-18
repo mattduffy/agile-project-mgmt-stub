@@ -5,7 +5,7 @@
 *.zip
 *.tar
 *.tgz
-
+~$*
 
 # Logs
 logs
