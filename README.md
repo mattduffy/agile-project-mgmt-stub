@@ -9,12 +9,12 @@ Feasibility in Agile is very similar to what is done in Traditional project mana
 
 * Create the business case
   * establish the high-level estimates
-    * [calculate-value.md](Return On Investment)
+    * [Return On Investment](calculate-value.md)
       * At what income value does this occur?
       * How long is the projected payback period?
-    * [calculate-value.md](Net Present Value)
+    * [Net Present Value](calculate-value.md)
       * What is the expected future value of this project today?
-    * [calculate-value.md](Internal Rate of Return)
+    * [Internal Rate of Return](calculate-value.md)
       * useful for choosing between proposed projects when resources are constrained
 * Create the project vision
   * a group activity with the stakeholders
