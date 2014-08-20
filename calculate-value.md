@@ -1,9 +1,11 @@
-# Calculating the Projected Value of a Project
+# Assessing the Value of a Project
 
 Because business value is typically expressed in financial terms, accurately assessing the value of a potential project during a feasibilty study can significantly improve the chances of project success.  Providing estimates of high confidence can lead to early and enthusiastic sponsor support.
 
 ### Return On Investment
-One of the first things a project sponsor will likely want to know, is what is the expected Return On Investment for a project.  What the sponsor is really asking is: 1) How long is the projected payback period? 2) At what put in the income stream will payback occur?  Providing honest, accurate, and clear responses to these questions go along way to getting sponsor approval.  In order to g
+One of the first things a project sponsor will likely want to know, is what is the expected <b>R</b>eturn <b>O</b>n <b>I</b>nvestment for a project.  What the sponsor is really asking is: <b>1)</b> How long is the projected payback period? <b>2)</b> At what value in the income stream will payback occur?  Providing honest, accurate, and clear responses to these questions go a long way to getting sponsor approval.  In order to g
+
+![Sample ROI chart](img/roi.png)
 
 ### Net Present Value
 Net Present Value has become a very popular way to evaluate project returns, both in Agile and Traditional projects.  As estimates go, it is a very clean and easy to use formula.  It is not encumbered by complex calculations or too many variables, so it creates estimates that should easily fall within -20%/+20% range if the input is good.  Frequent tuning of the estimates as more detailed data becomes available over the life of the project will provide a means of narrowing the range of estimates.
