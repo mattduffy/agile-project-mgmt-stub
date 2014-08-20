@@ -25,10 +25,10 @@ Feasibility in Agile is very similar to what is done in Traditional project mana
 There are two simplistic yet prevailing views of adopting Agile methodologies: 1) Tailor the processes to fit the needs of your project or organization. 2) **Do Not** tailor the processess to fit the needs of your project or organization.  It's okay to take either side of this debate; the main point is really just understanding the debate and how it may apply to your project.  I prefer to take a lighter meaning of the phrase __process tailoring__ where the focus is on defining what I consider to be the metadata of the project, rather than the structural elements of management.  For example, if you choose to implement Scrum, metadata might include the time, location, and attendees of the Daily Stand-up meeting.  Whereas structural elements of this process might be frequency of the Daily Stand-up, or the 3 questions asked of each team member.  It is possible to change them, the reasons should be well thought out and agreed upon.  
 
 * Define the Project Management approach for the project
-	* Define and communicate the Project Management process requirements.
+  * Define and communicate the Project Management process requirements.
   * communicate, clearly and early, what methodologies are to be used:
     - Kanban and Scrum work well together and make up the rest of this guide.
-	  - XP, Feature Driven Development, Crystal, Lean Software Development are other options.
+    - XP, Feature Driven Development, Crystal, Lean Software Development are other options.
 
 ### Initiating the Project
 
