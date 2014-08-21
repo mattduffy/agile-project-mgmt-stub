@@ -3,18 +3,18 @@
 Use this process outline to help you kick-off a new Agile based project in a standardized and consistent manner.  Customize the outline as necessary to tailor the process to fit the needs of your organization or project.  Using this outline for each new project will help create a consistent practice and ensure all team members are familiar and comfortable in their roles.  It is not necessary to follow the process in the exact order the steps are presented in, but it tries to create a logical progression from less to more detail.  
 
 ### Feasibility
-To be honest, many projects lack a formal feasibility process. There are plenty of reasons for this, and some common ones include: the project is considered too small to warrant this level of inspection, the project team lacks the necessary skills of a business analyst or maybe the feasibility work has already been performed.  While projects may certainly succeed despite a lack of a feasibility study, it is a good process to consider and gets easier with practice.  
+To be honest, many projects lack a formal feasibility process. There are plenty of reasons for this, and some common ones include: the project is considered too small to warrant this level of inspection, the project team lacks the necessary skills of a business analyst or maybe the feasibility work has already been performed.  While projects may certainly succeed despite the lack of a feasibility study, it is a good process to consider and gets easier with practice.  
 
-Feasibility in Agile is very similar to what is done in Traditional project management.  The main difference is that the documentation tends to be lighter.  The same calculations are used to build the business case: IRR, ROI, and NPV.
+Feasibility in Agile is very similar to what is done in Traditional project management.  The main difference is that the documentation tends to be lighter.  The same calculations can be used to build the business case.  A good place to start is with IRR, ROI, and NPV.
 
 * Create the business case
-  * establish the high-level estimates
-    * [Return On Investment](calculate-value.md)
+  * establish the high-level estimates (see [assessing project value](calculate-value.md))
+    * Return On Investment
       * At what income value does this occur?
       * How long is the projected payback period?
-    * [Net Present Value](calculate-value.md)
+    * Net Present Value
       * What is the expected future value of this project today?
-    * [Internal Rate of Return](calculate-value.md)
+    * Internal Rate of Return
       * useful for choosing between proposed projects when resources are constrained
 * Create the project vision
   * a group activity with the stakeholders
