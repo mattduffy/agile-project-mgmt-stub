@@ -22,18 +22,32 @@ Feasibility in Agile is very similar to what is done in Traditional project mana
     * provides team with a mantra, metaphor and motivation
 
 ### Tailoring the Agile Process
-There are two simplistic yet prevailing views of adopting Agile methodologies: 1) Tailor the processes to fit the needs of your project or organization. 2) **Do Not** tailor the processess to fit the needs of your project or organization.  It's okay to take either side of this debate; the main point is really just understanding the debate and how it may apply to your project.  I prefer to take a lighter meaning of the phrase __process tailoring__ where the focus is on defining what I consider to be the metadata of the project, rather than the structural elements of management.  For example, if you choose to implement Scrum, metadata might include the time, location, and attendees of the Daily Stand-up meeting.  Whereas structural elements of this process might be frequency of the Daily Stand-up, or the 3 questions asked of each team member.  It is possible to change them, the reasons should be well thought out and agreed upon.  
+There are two simplistic yet prevailing views of adopting Agile methodologies: 1) Tailor the processes to fit the needs of your project or organization. 2) **Do Not** tailor the processess to fit the needs of your project or organization.  It's okay to take either side of this debate; the main point is really just understanding the debate and how it may apply to your project.  I prefer to take a lighter meaning of the phrase *process tailoring* where the focus is on defining what I consider to be the metadata of the project, rather than the structural elements of management.  For example, if you choose to implement Scrum, metadata might include the time, location, and attendees of the Daily Stand-up meeting.  Whereas structural elements of this process might be frequency of the Daily Stand-up, or the 3 questions asked of each team member.  It is possible to change them, the reasons should be well thought out and agreed upon.  
 
 * Define the Project Management approach for the project
   * Define and communicate the Project Management process requirements.
   * communicate, clearly and early, what methodologies are to be used:
     - Kanban and Scrum work well together and make up the rest of this guide.
-    - XP, Feature Driven Development, Crystal, Lean Software Development are other options.
+    - XP, Feature Driven Development, Crystal, Lean Software Development are some other options.
 
 ### Initiating the Project
+Agile methodolies tend to center around the concept of deferring decisions when appropriate.  This is in contrast to Traditional PM methodolgies where a vast amount of time is spent up front, creating highly detailed baseline projections for time and cost.  This is where bulk of the early project planning takes place to create the project roadmap and goals.
 
-
-Clearly establish the measure of functionality that is complete enough to be useful to the users, yet small enough to fit into the planned Iteration/Sprint concept.
+#### Charter the project
+By now, there should be sufficient information about the project to draft the Charter and make it official.  An Agile charter is a much simpler document than the charter from a traditionally managed project.  The charter is created as part of a group activity with the stakeholders.
+* define the product vision
+  - create an elevator pitch
+  - create a project tweet
+* answer the **W5H** questions:
+  - What is the project about?
+  - Why is the project being undertaken?
+  - Who will be engaged in the project?
+  - When will the project be undertaken?
+  - Where will the project be undertaken?
+  - How will the project be undertaken?
+  
+#### Identify the Minimally Marketable Product
+Clearly establish the measure of functionality that is complete enough to be useful to the users, yet small enough to fit into the planned Iteration concept.
 
 * Value-Based Analysis:
   * Define how value will be determined and measured.
