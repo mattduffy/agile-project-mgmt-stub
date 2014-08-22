@@ -5,19 +5,20 @@ Use this process outline to help you kick-off a new Agile based project in a sta
 ### Feasibility
 To be honest, many projects lack a formal feasibility process. There are plenty of reasons for this, and some common ones include: the project is considered too small to warrant this level of inspection, the project team lacks the necessary skills of a business analyst or maybe the feasibility work has already been performed.  While projects may certainly succeed despite the lack of a feasibility study, it is a good process to consider and gets easier with practice.  
 
-Feasibility in Agile is very similar to what is done in Traditional project management.  The main difference is that the documentation tends to be lighter.  The same calculations can be used to build the business case.  A good place to start is with IRR, ROI, and NPV.
+Feasibility in Agile is very similar to what is done in Traditional project management.  The main difference is that the documentation tends to be lighter.  The same calculations can be used to build the business case.  A good place to start is with ROI, NPV, and IRR.
 
-* Create the business case
-  * establish the high-level estimates (see [assessing project value](calculate-value.md))
-    * Return On Investment
-      * At what income value does this occur?
-      * How long is the projected payback period?
-    * Net Present Value
-      * What is the expected future value of this project today?
-    * Internal Rate of Return
-      * useful for choosing between proposed projects when resources are constrained
-* Create the project vision
-  * a group activity with the stakeholders
+* Value-Based Analysis:
+  * Create the business case
+    * establish the high-level estimates (see [assessing project value](calculate-value.md))
+      * Return On Investment
+        * At what income value does this occur?
+        * How long is the projected payback period?
+      * Net Present Value
+        * What is the expected future value of this project today?
+      * Internal Rate of Return
+        * useful for choosing between proposed projects when resources are constrained
+  * Create the project vision
+    * a group activity with the stakeholders
     * facilitates faster decision making and trust
     * provides team with a mantra, metaphor and motivation
 
@@ -29,15 +30,19 @@ There are two simplistic yet prevailing views of adopting Agile methodologies: 1
   * communicate, clearly and early, what methodologies are to be used:
     - Kanban and Scrum work well together and make up the rest of this guide.
     - XP, Feature Driven Development, Crystal, Lean Software Development are some other options.
+  * establish process for estimating Level of Effort
+    - what unit of measure will be used; Story Points, Ideal Days, Jelly Beans, etc?
+    - how will Work In Progress limits be decided?
+    - how will iteration velocity be initially estimated?
+  * who will fill the team roles of product owner, coordinator, iteration planner, technical mentor, etc.?
+  * what tools will be used: version control, testing framework, continuous integration, deployment manager, etc?
+  * how will progress demos be conducted?
 
 ### Initiating the Project
 Agile methodolies tend to center around the concept of deferring decisions when appropriate.  This is in contrast to Traditional PM methodolgies where a vast amount of time is spent up front, creating highly detailed baseline projections for time and cost.  This is where bulk of the early project planning takes place to create the project roadmap and goals.
 
-#### Charter the project
+##### Charter the project
 By now, there should be sufficient information about the project to draft the Charter and make it official.  An Agile charter is a much simpler document than the charter from a traditionally managed project.  The charter is created as part of a group activity with the stakeholders.
-* define the product vision
-  - create an elevator pitch
-  - create a project tweet
 * answer the **W5H** questions:
   - What is the project about?
   - Why is the project being undertaken?
@@ -45,29 +50,31 @@ By now, there should be sufficient information about the project to draft the Ch
   - When will the project be undertaken?
   - Where will the project be undertaken?
   - How will the project be undertaken?
+* define the product vision
+  - create an elevator pitch
+  - create a project tweet
   
-#### Identify the Minimally Marketable Product
-Clearly establish the measure of functionality that is complete enough to be useful to the users, yet small enough to fit into the planned Iteration concept.
+##### Identify the Minimally Marketable Product
+Clearly establish the measure of functionality that is complete enough to be useful to the users, yet small enough to fit into the planned Iteration concept.  This is a group activity among the product owner, the stakeholders, and the 
 
-* Value-Based Analysis:
-  * Define how value will be determined and measured.
-  * Consider developement costs and business values.
-    - Present Value and Net Present Value
-	- Internal Rate of Return
-	- Return on Investment
-  * Determine the payback frequency, if necessary.
 * Value-Based Decomposition and Prioritization:
   * elicit requirements from stakeholders
     - determine requirements gathering method:
-	  - focus groups
-	  - surveys
-	  - feature workshops, etc.
-	- determine method used to prioritize the established requirements and features:
-	  - Remember the Future
-	  - Prune the Product Tree
-	  - Speedboat
-	  - Buy a Feature
-	  - Bang-for-the-Buck
+      - facilitated feature workshops
+      - focus groups
+      - surveys, etc.
+    - determine method used to prioritize the established requirements and features:
+      - Remember the Future
+      - Prune the Product Tree
+      - Speedboat
+      - Buy a Feature
+      - Bang-for-the-Buck, etc.
+
+##### Themes, Personas, and User Stories
+
+
+##### Estimating the Level of Effort
+
 * Estimating:
   * Level of Effort
     - determine LoE estimating method to use:
@@ -80,7 +87,7 @@ Clearly establish the measure of functionality that is complete enough to be use
 	  - team activity: begin affinity estimating for existing requirements 
     - Budget and Costs
 	  - Aggregate the LoE by:
-	    - Story Points or
+      - Story Points or
 		- Ideal Days
 	  - Convert aggregate LoE into a a schedule
 	    - factor in team size
@@ -98,3 +105,11 @@ Clearly establish the measure of functionality that is complete enough to be use
 	 - establish how risks will be quantified (EMV, time loss)
      - create a risk-adjusted backlog
 
+| Plan                       | Goal       |
+|----------------------------|-----------:|
+| Project Total Size         | 185 points |
+| Iteration Capacity         | 35 points  |
+| Number of Iterations       | 185/35 = 6 |
+| Release Every # Iterations | 2          |
+| # Weeks for Release        | 1          |
+| # Weeks for Stabilization  | 1          |
