@@ -71,7 +71,7 @@ Clearly establish the measure of functionality that is complete enough to be use
       - Bang-for-the-Buck, etc.
 
 ##### Themes, Personas, and User Stories
-
+Themes personas and user stories
 
 ##### Estimating the Level of Effort
 
