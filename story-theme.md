@@ -1,4 +1,4 @@
-# Finding the Themes in Your Stories
+# Finding the Themes in Your Backlog
 
 Applying themes to the user stories in the Feature Backlog is really an informal approach to organizing stories in some logical fashion.  There is no stardard Agile method by which themes are created or evaluated.  In fact, a common analogy used to describe a theme is to think of a rubber band used to group a stack of related user stories, written upon index cards.  The rubber band just serves to keep the cards together once they have been created.  The theme is your logical grouping, for example, all features related to drawing graphs in the reporting section can be grouped under the theme "Reporting".  It's as simple as that.  User stories can belong to more than one theme, if that makes sense for your project, but that may become too complicated.
 
