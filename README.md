@@ -71,7 +71,7 @@ Clearly establish the measure of functionality that is complete enough to be use
       - Bang-for-the-Buck, etc.
 
 ##### Themes, Personas, and User Stories
-Creating a successful Backlog of user stories capable of delivering the high value features as early as possible takes practice.  One of the most effective ways to improve the quality of features delivered during iterations is to promote good discussions among team members.  Discussions facilitate the deep understanding of the requirements needed to ensure the conditions of satisfaction (also known as acceptance criteria) are met.  User stories are the first step in meeting those conditions (see [user stories](story-user.md]).
+Creating a successful Backlog of user stories capable of delivering the high value features as early as possible takes practice.  One of the most effective ways to improve the quality of features delivered during iterations is to promote good discussions among team members.  Discussions facilitate the deep understanding of the requirements needed to ensure the conditions of satisfaction (also known as acceptance criteria) are met.  User stories are the first step in meeting those conditions (see [user stories](story-user.md)).
 
 Personas can be a very useful tool to promote good discusssion of the product requirements.  By taking the time to articulate the prototypical users of the product, the project team can see the product and features from the perspective of these identified users.  Asking questions like "How does Alice normally complete this task?" can result in a more thorough understanding of the requirement, leading to a better estimate of the level of effort required to produce it (see [personas](personas.md)).
 
@@ -80,10 +80,10 @@ Themes are another optional tool, like Personas, that can be used to enhance the
 Sometimes there are feature requirements that just cannot be adequately decomposed into user stories which are small enough to completely fit within a single Iteration following the INVEST approach.  This can be a sign that the requirement is not well understood, and therefore requires more discussion.  Or, it could just be a really large feature that needs to be treated as an [epic user story](story-epic.md).
 
 ##### Estimating the Level of Effort
+Research has shown that too much emphasis on building accurate estimates too early can be harmful to the project.  Well documented and understood user stories make it possible to provide more accurate estimates of the work required to produce the prioritized features.  This is a key element of the Adpative Planning process, and helps make estimating more effective.  This only works, however, when the estimates are developed through a collaborative process, where those producing the features provide the estimates rather than a Traditional project manager.
 
-* Estimating:
-	* Story Points and Relative Sizing 
-	  - team activity: create definition for the value of a story point
+  * Story Points and Relative Sizing 
+    - team activity: create definition for the value of a story point
 	  - team activity: create definition for 'done'
 	  - team activity: begin affinity estimating for existing requirements 
   * determine Level of Effort method to use
@@ -99,7 +99,16 @@ Sometimes there are feature requirements that just cannot be adequately decompos
 		  - required resources and availability
 		  - other dependencies
 	  - Aggregate costs over the schedule
-	    - unburdend or burdened costs (see [burdened costs](burdened-costs.md))
+	    - unburdend or burdened costs (see sample [burdened costs](burdened-costs.md))
+
+##### The Feature Backlog
+The Backlog is a dynamic component of the project plan.  Through the Adaptive Planning approach, the Backlog will become much more detailed over the course of the project.  Changes in the product requirements may result in new user stories being added and existing stories being removed.  Because the Backlog is a product of team collaboration and stakeholder engagement, it can be considered a central and authoritative source of project progress.  The Backlog can actually make a very effective information radiator, used to quickly communicate current progress.
+
+##### The Product Roadmap
+
+
+### Planning the Project
+
 
 * Create the Project Plan
   * Propose the milestone goals
