@@ -26,6 +26,8 @@ Present Value is a simple calculation to see the value of a project in today's t
                 I1          I2             In
 NPV =  I0 + --------- + --------- ...+ --------- 
              (1+r)^1     (1+r)^2        (1+r)^n
+
+In = Future Value of Income at time period n
 </pre>
 
 ### Internal Rate of Return
