@@ -4,7 +4,7 @@ It is critical to the success of the project that then entire project staff, alo
 
 Below is a widely adopted guide to follow in software development projects that can be used as a sanity check before a user story is declared "done".
 
-* ** **: Has the customer provided the "Conditions of Satisfaction" (aka User Acceptance tests)?
+* **Acceptance Defined**: Has the customer provided the "Conditions of Satisfaction" (aka User Acceptance tests)?
 * **Tested**: Are all unit, integration, and customer acceptance tests finished?
 * **Coded**: Has all the code been written?
 * **Designed**: Has the code been refactored to the team's satisfaction?
