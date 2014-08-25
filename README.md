@@ -76,25 +76,25 @@ Clearly establish the measure of functionality that is complete enough to be use
 ##### Estimating the Level of Effort
 
 * Estimating:
-  * Level of Effort
-    - determine LoE estimating method to use:
-	  - Ideal Time
-	  - Wideband Delphi
-	  - Planning Poker
-	- Story Points and Relative Sizing 
+	* Story Points and Relative Sizing 
 	  - team activity: create definition for the value of a story point
 	  - team activity: create definition for 'done'
 	  - team activity: begin affinity estimating for existing requirements 
-    - Budget and Costs
+  * determine Level of Effort method to use
+    - Ideal Time
+    - Wideband Delphi
+    - Planning Poker
+  * Budget and Costs
 	  - Aggregate the LoE by:
       - Story Points or
-		- Ideal Days
-	  - Convert aggregate LoE into a a schedule
+		  - Ideal Days
+    - Convert aggregate LoE into a schedule
 	    - factor in team size
-		- required resources and availability
-		- other dependencies
+		  - required resources and availability
+		  - other dependencies
 	  - Aggregate costs over the schedule
 	    - unburdend or burdened costs (see [burdened costs](burdened-costs.md))
+
 * Create the Project Plan
   * Propose the milestone goals
   * Propose the release goals
