@@ -4,6 +4,7 @@ It is critical to the success of the project that then entire project staff, alo
 
 Below is a widely adopted guide to follow in software development projects that can be used as a sanity check before a user story is declared "done".
 
+* ** **: Has the customer provided the "Conditions of Satisfaction" (aka User Acceptance tests)?
 * **Tested**: Are all unit, integration, and customer acceptance tests finished?
 * **Coded**: Has all the code been written?
 * **Designed**: Has the code been refactored to the team's satisfaction?
@@ -13,4 +14,4 @@ Below is a widely adopted guide to follow in software development projects that 
 * **Migrates**: Does the build script update the DB schema if necessary?  Does the installer migrate data when necessary?
 * **Reviewed**: Have the customers reviewed the user story and confirmed that it meets their requirements/expectations?
 * **Fixed**: Have all known defects been fixed or at least been scheduled as individual user stories?
-* **Accepted**: Do the team and the stakeholders agree the user story is finished?
+* **Accepted**: Do the team and the stakeholders agree the user story is finished according to the Conditions of Satisfaction?

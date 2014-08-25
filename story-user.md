@@ -52,7 +52,7 @@ As a prospective homebuyer, I want to see a complete and realistic estimate of t
   * @risk1: description of identified risk.
   * @risk2: description of identified risk.
 
-##### Acceptance Tests:
+##### Conditions of Satisfaction:
 Criteria 1
 > **Given** an active user account is created, the user logs in, and has no loan profiles created,
 > **When** a logged-in user clicks on New Profile, 
