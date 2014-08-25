@@ -80,7 +80,7 @@ Themes are another optional tool, like Personas, that can be used to enhance the
 Sometimes there are feature requirements that just cannot be adequately decomposed into user stories which are small enough to completely fit within a single Iteration following the INVEST approach.  This can be a sign that the requirement is not well understood, and therefore requires more discussion.  Or, it could just be a really large feature that needs to be treated as an [epic user story](story-epic.md).
 
 ##### Estimating the Level of Effort
-Research has shown that too much emphasis on building accurate estimates too early can be harmful to the project.  Well documented and understood user stories make it possible to provide more accurate estimates of the work required to produce the prioritized features.  This is a key element of the Adpative Planning process, and helps make estimating more effective.  This only works, however, when the estimates are developed through a collaborative process, where those producing the features provide the estimates rather than a Traditional project manager.
+Research has shown that too much emphasis on building accurate estimates too early can be harmful to the project.  Well documented and understood user stories make it possible to provide more accurate estimates of the work required to produce the prioritized features.  This is a key element of the Adpative Planning process, and helps make estimating more effective.  This only works, however, when the estimates are developed through a collaborative process, where those team members producing the features provide the estimates rather than a Traditional project manager.
 
   * Story Points and Relative Sizing 
     - team activity: create definition for the value of a story point
@@ -91,10 +91,10 @@ Research has shown that too much emphasis on building accurate estimates too ear
     - Wideband Delphi
     - Planning Poker
   * Budget and Costs
-	  - Aggregate the LoE by:
+	  - Aggregate the Level of Effort by:
       - Story Points or
 		  - Ideal Days
-    - Convert aggregate LoE into a schedule
+    - Convert aggregate Level of Effort into a schedule
 	    - factor in team size
 		  - required resources and availability
 		  - other dependencies
@@ -104,8 +104,12 @@ Research has shown that too much emphasis on building accurate estimates too ear
 ##### The Feature Backlog
 The Backlog is a dynamic component of the project plan.  Through the Adaptive Planning approach, the Backlog will become much more detailed over the course of the project.  Changes in the product requirements may result in new user stories being added and existing stories being removed.  Because the Backlog is a product of team collaboration and stakeholder engagement, it can be considered a central and authoritative source of project progress.  The Backlog can actually make a very effective information radiator, used to quickly communicate current progress.
 
-##### The Product Roadmap
+Prioritizing the Backlog will be a continuous process, with most of the work being done during the Iterations.  It is not expected that there be more than a high level first pass of prioritizing the newly developed user stories during Project Initiation.  A good strategy for developing a successful Backlog is to make it [DEEP](backlog-deep.md).
 
+##### The Product Roadmap
+The Product Roadmap, sometimes referred to as a Story Map, can be a useful tool to enhance the communication value of the Backlog by visually depicting how the user stories will be prioritized across the planned Iterations.  Product Roadmaps are often used in stakeholder communications and information radiators.  By presenting the Backlog in a time sequence perspective, roadmaps can easily convey high level details of the release goals, project dependencies and relative priorities of features.
+
+See [walking skeleton]().
 
 ### Planning the Project
 
