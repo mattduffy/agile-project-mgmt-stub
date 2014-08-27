@@ -95,15 +95,15 @@ Research has shown that too much emphasis on building accurate estimates too ear
     - Wideband Delphi
     - Planning Poker
   * Budget and Costs
-	  - Aggregate the Level of Effort by:
+    - Aggregate the Level of Effort by:
       - Story Points or
-		  - Ideal Days
+      - Ideal Days
     - Convert aggregate Level of Effort into a schedule
-	    - factor in team size
-		  - required resources and availability
-		  - other dependencies
-	  - Aggregate costs over the schedule
-	    - unburdend or burdened costs (see sample [burdened costs](burdened-costs.md))
+      - factor in team size
+      - required resources and availability
+      - other dependencies
+    - Aggregate costs over the schedule
+      - unburdend or burdened costs (see sample [burdened costs](burdened-costs.md))
 
 ##### The Feature Backlog
 The Backlog is a dynamic component of the project plan.  Through the Progressive Elaboration approach, the Backlog will become much more detailed over the course of the project.  Changes in the product requirements may result in new user stories being added and existing stories being removed.  Because the Backlog is a product of team collaboration and stakeholder engagement, it can be considered a central and authoritative source of project progress.  The Backlog can actually make a very effective information radiator, used to quickly communicate current progress.
