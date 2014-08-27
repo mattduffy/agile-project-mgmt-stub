@@ -109,10 +109,10 @@ Prioritizing the Backlog will be a continuous process, with most of the work bei
 ##### The Product Roadmap
 The Product Roadmap, sometimes referred to as a Story Map, can be a useful tool to enhance the communication value of the Backlog by visually depicting how the user stories will be prioritized across the planned Iterations.  Product Roadmaps are often used in stakeholder communications and information radiators.  By presenting the Backlog in a time sequence perspective, roadmaps can easily convey high level details of the release goals, project dependencies and relative priorities of features.
 
-See [walking skeleton]().
+For a sample view of a Product Roadmap laid out in Story Map fashion, see [Story Map](backlog-map.md).
 
 ### Planning the Project
-
+A lot of work has been done up to this point, but it might not feel like very little tangile project planning or execution has been done yet.  That should all change at this point.  
 
 * Create the Project Plan
   * Propose the milestone goals
@@ -132,3 +132,14 @@ See [walking skeleton]().
 | Release Every n Iterations        | 2          |
 | - Weeks to Perform a Release      | 1          |
 | - Weeks for Release Stabilization | 1          |
+
+##### Release Planning
+
+
+##### Iteration Planning
+
+
+##### Iteration 0
+
+
+
