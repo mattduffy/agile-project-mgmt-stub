@@ -34,6 +34,10 @@ There are two simplistic yet prevailing views of adopting Agile methodologies: 1
     - what unit of measure will be used; Story Points, Ideal Days, Jelly Beans, etc?
     - how will Work In Progress limits be decided?
     - how will iteration velocity be initially estimated?
+  * planning
+    - how long will an iteration last: 2 weeks, 4 weeks?
+    - how will releases be conducted?
+    - how will velocity be guaged?
   * who will fill the team roles of product owner, coordinator, iteration planner, technical mentor, etc.?
   * what tools will be used: version control, testing framework, continuous integration, deployment manager, etc?
   * how will progress demos be conducted?
@@ -71,7 +75,7 @@ Clearly establish the measure of functionality that is complete enough to be use
       - Bang-for-the-Buck, etc.
 
 ##### Themes, Personas, and User Stories
-Creating a successful Backlog of user stories capable of delivering the high value features as early as possible takes practice.  One of the most effective ways to improve the quality of features delivered during iterations is to promote good discussions among team members.  Discussions facilitate the deep understanding of the requirements needed to ensure the conditions of satisfaction (also known as acceptance criteria) are met.  User stories are the first step in meeting those conditions (see [user stories](story-user.md)).
+Creating a successful Backlog of user stories capable of delivering the high value features as early as possible takes practice.  One of the most effective ways to improve the quality of features delivered during iterations is to promote good discussions among team members.  Discussions facilitate the [deep](backlog-deep.md) understanding of the requirements needed to ensure the conditions of satisfaction (also known as acceptance criteria) are met.  User stories are the first step in meeting those conditions (see [user stories](story-user.md)).
 
 Personas can be a very useful tool to promote good discusssion of the product requirements.  By taking the time to articulate the prototypical users of the product, the project team can see the product and features from the perspective of these identified users.  Asking questions like "How does Alice normally complete this task?" can result in a more thorough understanding of the requirement, leading to a better estimate of the level of effort required to produce it (see [personas](personas.md)).
 
@@ -80,7 +84,7 @@ Themes are another optional tool, like Personas, that can be used to enhance the
 Sometimes there are feature requirements that just cannot be adequately decomposed into user stories which are small enough to completely fit within a single Iteration following the INVEST approach.  This can be a sign that the requirement is not well understood, and therefore requires more discussion.  Or, it could just be a really large feature that needs to be treated as an [epic user story](story-epic.md).
 
 ##### Estimating the Level of Effort
-Research has shown that too much emphasis on building accurate estimates too early can be harmful to the project.  Well documented and understood user stories make it possible to provide more accurate estimates of the work required to produce the prioritized features.  This is a key element of the Adpative Planning process, and helps make estimating more effective.  This only works, however, when the estimates are developed through a collaborative process, where those team members producing the features provide the estimates rather than a Traditional project manager.
+Research has shown that too much emphasis on building accurate estimates too early can be harmful to the project.  Well documented and understood user stories make it possible to provide more accurate estimates of the work required to produce the prioritized features.  This is a key element of the Progressive Elaboration process, and helps make estimating more effective.  This only works, however, when the estimates are developed through a collaborative process, where those team members producing the features provide the estimates rather than a Traditional project manager.
 
   * Story Points and Relative Sizing 
     - team activity: create definition for the value of a story point
@@ -102,7 +106,7 @@ Research has shown that too much emphasis on building accurate estimates too ear
 	    - unburdend or burdened costs (see sample [burdened costs](burdened-costs.md))
 
 ##### The Feature Backlog
-The Backlog is a dynamic component of the project plan.  Through the Adaptive Planning approach, the Backlog will become much more detailed over the course of the project.  Changes in the product requirements may result in new user stories being added and existing stories being removed.  Because the Backlog is a product of team collaboration and stakeholder engagement, it can be considered a central and authoritative source of project progress.  The Backlog can actually make a very effective information radiator, used to quickly communicate current progress.
+The Backlog is a dynamic component of the project plan.  Through the Progressive Elaboration approach, the Backlog will become much more detailed over the course of the project.  Changes in the product requirements may result in new user stories being added and existing stories being removed.  Because the Backlog is a product of team collaboration and stakeholder engagement, it can be considered a central and authoritative source of project progress.  The Backlog can actually make a very effective information radiator, used to quickly communicate current progress.
 
 Prioritizing the Backlog will be a continuous process, with most of the work being done during the Iterations.  It is not expected that there be more than a high level first pass of prioritizing the newly developed user stories during Project Initiation.  A good strategy for developing a successful Backlog is to make it [DEEP](backlog-deep.md).
 
@@ -112,13 +116,14 @@ The Product Roadmap, sometimes referred to as a Story Map, can be a useful tool 
 For a sample view of a Product Roadmap laid out in Story Map fashion, see [Story Map](backlog-map.md).
 
 ### Planning the Project
-A lot of work has been done up to this point, but it might not feel like very little tangile project planning or execution has been done yet.  That should all change at this point.  
+A lot of work has been done up to this point, but it might feel like very little tangile project planning and execution has been done yet.  That should all change at this point.  Some key elements of the project have been established now: signoff from the sponsor, a clearly communicated vision of the product, a team approved definition of *Done*, and perhaps most important, a backlog full of well written user stories from which the *Minimally Marketable Product* will be built.  The next step is establish the release goals.  
 
 * Create the Project Plan
-  * Propose the milestone goals
-  * Propose the release goals
-  * Iteration plans
-   - establish iteration plans
+  * the release plan
+    * propose the release (or milestone) goals
+    * are releases *date* driven or *functionality* driven?
+  * the iteration plan
+   - make time for Iteration 0
    - backlog grooming habits
    - risk assesments
 	 - establish how risks will be quantified (EMV, time loss)
