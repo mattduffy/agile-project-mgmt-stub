@@ -38,9 +38,10 @@ There are two simplistic yet prevailing views of adopting Agile methodologies: 1
     - how long will an iteration last: 2 weeks, 4 weeks?
     - how will releases be conducted?
     - how will velocity be guaged?
-  * who will fill the team roles of product owner, coordinator, iteration planner, technical mentor, etc.?
-  * what tools will be used: version control, testing framework, continuous integration, deployment manager, etc?
-  * how will progress demos be conducted?
+  * Who will fill team roles of product owner, coordinator, iteration planner, technical mentor, etc.?
+  * What project management tools will be used: task boards, information radiators, issue tracker, backlog system, etc?
+  * What development tools will be used: version control, testing framework, continuous integration, deployment manager, etc?
+  * How will progress demos be conducted?
 
 ### Initiating the Project
 Agile methodolies tend to center around the concept of deferring decisions when appropriate.  This is in contrast to Traditional PM methodolgies where a vast amount of time is spent up front, creating highly detailed baseline projections for time and cost.  This is where bulk of the early project planning takes place to create the project roadmap and goals.
