@@ -3,7 +3,7 @@
 Because business value is typically expressed in financial terms, accurately assessing the value of a potential project during a feasibilty study can significantly improve the chances of project success.  Providing estimates of high confidence can lead to early and enthusiastic sponsor support.
 
 ### Return On Investment
-One of the first things a project sponsor will likely want to know, is what is the expected <b>R</b>eturn <b>O</b>n <b>I</b>nvestment for a project.  What the sponsor is really asking is: <b>1)</b> How long is the projected payback period? <b>2)</b> At what value in the income stream will payback occur?  Providing honest, accurate, and clear responses to these questions go a long way to getting sponsor approval.  See the included [sample ROI spreadsheet](roi-sample.xlsx).
+One of the first things a project sponsor will likely want to know, is what is the expected <b>R</b>eturn <b>O</b>n <b>I</b>nvestment for a project.  What the sponsor is really asking is: <b>1)</b> How long is the projected payback period? <b>2)</b> At what value in the income stream will payback occur?  Providing honest, accurate, and clear responses to these questions go a long way to getting sponsor approval.  See the included [sample ROI spreadsheet](artifacts/roi-sample.xlsx).
 
 ![Sample ROI chart](img/roi.png)
 
